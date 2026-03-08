@@ -80,7 +80,7 @@ Multimodal Learning
 
 This paper was presented at IC2NS2 2026.
 
-![Conference Certificate](images/certificate.png)
+![Conference Certificate](/certificate.png)
 
 ---
 
